@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jeu:home|Door43 (jeu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jeu|d43-jeu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jeu/archive/master.zip|d43-jeu.zip]]
+
+**Recent Changes**
+{{changes>ns = jeu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jeu|Ethnologue data]]
+
